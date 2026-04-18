@@ -2,7 +2,7 @@ PROYECTO INTEGRADOR: Lógica de Programación
 
 Nombre del Proyecto:
 
-El impacto de las nuevas tecnologías en la sociedad: visualización del futuro
+El impacto de las nuevas tecnologías en la sociedad integrando las unidades vistas en la materia.
 
 Datos del Estudiante:
 
